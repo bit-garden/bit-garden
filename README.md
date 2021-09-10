@@ -5,7 +5,9 @@
 
 ---
 
-I have worked on several projects, most of which were generally to challenge myself, but never really made it to product. This mostly included games. 
+I have worked on several projects, most of which were generally to challenge myself, but never really made it to production quality.
+
+Most of the projects were game ideas, but have long since fallen into non working code.
 
 <!--- - 📫 How to reach me ... --->
 
